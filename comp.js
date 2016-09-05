@@ -7,7 +7,6 @@ var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
 
 
-
 function setup() {
   createCanvas(400, 269);
   background(255,255,255);
